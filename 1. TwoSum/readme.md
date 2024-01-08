@@ -1,9 +1,7 @@
-
-
 # Linked list
 
 유연하게 크기 변경이 가능한 자료구조. 데이터를 자유롭게 삽입 삭제가 가능하다. 집합의 단위를 List, 각 요소의 단위를 Node라고 한다.
-
+![img1](https://lamarr.dev/images/algorithm/linkedlist01.jpg)
 ## vs array
 
 array: 인덱스와 그에 대응하는 value로 이루어진 구조
@@ -87,11 +85,15 @@ while reversed_list:
 
 ## Double Linked List
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/aa3ecfd9-b3c9-42e3-8c16-f0be32dfcba1/862719c1-4a5c-4eb3-9a44-6bd5ae7e1b55/Untitled.png)
+![Untitled](https://lamarr.dev/images/algorithm/linkedlist02.jpg)
 
 ## Circular Singly Linked List
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/aa3ecfd9-b3c9-42e3-8c16-f0be32dfcba1/0aa08e57-001b-4efe-ad1e-040b3694fc69/Untitled.png)
+![Untitled](https://lamarr.dev/images/algorithm/linkedlist03.jpg)
+
+## Circular Doubly Linked List
+
+![Untitled](https://lamarr.dev/images/algorithm/linkedlist04.jpg)
 
 ## Circular Doubly Linked List
 # Recerence

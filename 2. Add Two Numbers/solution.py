@@ -25,12 +25,6 @@ def addTwoNumbers(l1, l2):
         
         current = current.next
     
-    # Reverse the result linked list
-    result = None
-    while dummy.next:
-        temp = dummy.next
-        dummy.next = temp.next
-        temp.next = result
-        result = temp
+    # 문제를 잘 읽자. 전체 리스트 노드 반환
     
-    return result
+    return dummy.next
