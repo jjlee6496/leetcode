@@ -1,5 +1,5 @@
 # 문제
-
+문자열에서 가장 긴 팰린드롬수를 반환한다
 
 ```python
 class Solution(object):
