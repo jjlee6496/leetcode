@@ -1,6 +1,18 @@
 # 문제
 문자열에서 가장 긴 팰린드롬수를 반환한다
+```text
+Example 1:
 
+Input: s = "babad"
+Output: "bab"
+Explanation: "aba" is also a valid answer.
+Example 2:
+
+Input: s = "cbbd"
+Output: "bb"
+```
+
+# 풀이
 ```python
 class Solution(object):
     def longestPalindrome(self, s):
