@@ -1,6 +1,6 @@
 # 문제
 주어진 height 리스트에서 두개의 높이를 골라서 최대의 면적을 반환하기
-
+![](https://github.com/jjlee6496/leetcode/blob/main/11.%20Container%20With%20Most%20Water/20240111134955.png)
 # 풀이
 ## 처음풀이
 * 브루트 포스는 O(N^2)이라 시간 초과
